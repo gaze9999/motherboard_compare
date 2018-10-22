@@ -1,10 +1,4 @@
-MBID,RGB Header,"RGBW
-Header","Digital LED
-Header","5050
-JRGB 12V","5050
-JRGB 5V","WS2812B
-RGB LED","CORSAIR
-RGB LED",LED header
+MBID,RGB_Header,RGBW_Header,Digital_LED,5050JRGB_12V,5050JRGB_5V,WS2812B_RGB,CORSAIR_RGB,LED_header
 1,,,,,,,,
 2,,,,,,,,
 3,,,,,,,,

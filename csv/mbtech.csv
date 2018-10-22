@@ -1,104 +1,104 @@
-MBID,Product Name,Brand,Chipset,Series,Form Factor
-1,H310M-A,Asus,H310,PRIME,mATX 
-2,H310M-D,Asus,H310,PRIME,mATX 
-3,H310M-K,Asus,H310,PRIME,mATX 
-4,H310I-PLUS/CSM,Asus,H310,PRIME,Mini ITX 
-5,B360M-A,Asus,B360,PRIME,mATX 
-6,B360M-K,Asus,B360,PRIME,mATX 
-7,Z370-A,Asus,Z370,PRIME,ATX
-8,Z370-P,Asus,Z370,PRIME,ATX
-9,Maximus X APEX,Asus,Z370,ROG Maximus,Extended ATX 
-10,Maximus X FORMULA,Asus,Z370,ROG Maximus,ATX
-11,Maximus X HERO,Asus,Z370,ROG Maximus,ATX
-12,H370-F Gaming,Asus,H370,ROG Strix,ATX
-13,H370-I Gaming,Asus,H370,ROG Strix,Mini ITX 
-14,B360-F Gaming,Asus,B360,ROG Strix,ATX
-15,B360-G Gaming,Asus,B360,ROG Strix,mATX
-16,B360-H Gaming,Asus,B360,ROG Strix,ATX
-17,B360-I Gaming,Asus,B360,ROG Strix,Mini ITX 
-18,Z370-E Gaming,Asus,Z370,ROG Strix,ATX
-19,Z370-F Gaming,Asus,Z370,ROG Strix,ATX
-20,Z370-G Gaming,Asus,Z370,ROG Strix,mATX 
-21,Z370-H Gaming,Asus,Z370,ROG Strix,ATX
-22,Z370-I Gaming,Asus,Z370,ROG Strix,Mini ITX 
-23,H370-PRO Gaming (Wi-Fi),Asus,H370,TUF,ATX
-24,H310-PLUS Gaming,Asus,H310,TUF Gaming,ATX
-25,H310M-PLUS Gaming,Asus,H310,TUF Gaming,mATX 
-26,H370-PLUS Gaming (Wi-Fi),Asus,H370,TUF Gaming,ATX
-27,B360-PLUS Gaming,Asus,B360,TUF Gaming,ATX
-28,B360M-PLUS Gaming,Asus,B360,TUF Gaming,mATX 
-29,B360M-E Gaming,Asus,B360,TUF Gaming,mATX 
-30,Z370-PLUS Gaming,Asus,Z370,TUF Gaming,ATX
-31,Z370-PRO Gaming,Asus,Z370,TUF Gaming,ATX
-32,H310 D3,Gigabyte,H310,Ultra Durable,ATX
-33,H310M DS2,Gigabyte,H310,Ultra Durable,mATX
-34,H310M H,Gigabyte,H310,Ultra Durable,mATX
-35,H310M A,Gigabyte,H310,Ultra Durable,mATX
-36,H310M S2H,Gigabyte,H310,Ultra Durable,mATX
-37,H310M S2P,Gigabyte,H310,Ultra Durable,mATX
-38,B360 Aorus Gaming 3 Wi-Fi,Gigabyte,B360,Aorus Gaming ,ATX
-39,B360 Aorus Gaming 3,Gigabyte,B360,Aorus Gaming ,ATX
-40,B360N Aorus Gaming Wi-Fi,Gigabyte,B360,Aorus Gaming ,Mini ITX 
-41,B360M Aorus Gaming 3,Gigabyte,B360,Aorus Gaming ,mATX
-42,B360 HD3,Gigabyte,B360,Ultra Durable,ATX
-43,B360M D3H,Gigabyte,B360,Ultra Durable,mATX
-44,B360M D3V,Gigabyte,B360,Ultra Durable,mATX
-45,B360M DS3H,Gigabyte,B360,Ultra Durable,mATX
-46,B360M Gaming HD,Gigabyte,B360,Ultra Durable,mATX
-47,B360N Wi-Fi,Gigabyte,B360,Ultra Durable,Mini ITX 
-48,H370 HD3,Gigabyte,H370,Ultra Durable,ATX
-49,H370M D3H,Gigabyte,H370,Ultra Durable,mATX
-50,H370N Wi-Fi,Gigabyte,H370,Ultra Durable,Mini ITX 
-51,H370 Aorus Gaming 3 Wi-Fi,Gigabyte,H370,Aorus Gaming ,ATX
-52,Z370 Aorus Gaming 7-OP,Gigabyte,Z370,Aorus Gaming,ATX
-53,Z370 Aorus Gaming 7,Gigabyte,Z370,Aorus Gaming,ATX
-54,Z370 Aorus Gaming 5,Gigabyte,Z370,Aorus Gaming,ATX
-55,Z370 Aorus Gaming 3,Gigabyte,Z370,Aorus Gaming,ATX
-56,Z370 Aorus Gaming K3,Gigabyte,Z370,Aorus Gaming,ATX
-57,Z370XP SLI,Gigabyte,Z370,Ultra Durable,ATX
-58,Z370 HD3P,Gigabyte,Z370,Ultra Durable,ATX
-59,Z370 HD3,Gigabyte,Z370,Ultra Durable,ATX
-60,Z370P D3,Gigabyte,Z370,Ultra Durable,ATX
-61,Z370M DS3H ,Gigabyte,Z370,Ultra Durable,mATX
-62,Z370M D3H,Gigabyte,Z370,Ultra Durable,mATX
-63,Z370N Wi-Fi,Gigabyte,Z370,Ultra Durable,Mini ITX 
-64,Z370 Godlike Gaming,MSI,Z370,Enthusiast Gaming,Extended ATX 
-65,Z370 Gaming M5,MSI,Z370,Enthusiast Gaming,ATX
-66,Z370 Gaming Pro Carbon AC,MSI,Z370,Performance Gaming,ATX
-67,Z370 KRAIT Gaming,MSI,Z370,Performance Gaming,ATX
-68,Z370 Gaming Plus,MSI,Z370,Performance Gaming,ATX
-69,Z370M Gaming Pro AC,MSI,Z370,Performance Gaming,mATX
-70,Z370I Gaming Pro Carbon AC,MSI,Z370,Performance Gaming,Mini ITX 
-71,H370 Gaming Pro Carbon,MSI,H370,Performance Gaming,ATX
-72,H370 Gaming Plus,MSI,H370,Performance Gaming,ATX
-73,B360 Gaming Pro Carbon,MSI,B360,Performance Gaming,ATX
-74,B360 Gaming Plus,MSI,B360,Performance Gaming,ATX
-75,B360 Gaming Arctic,MSI,B360,Performance Gaming,ATX
-76,B360m Gaming Plus,MSI,B360,Performance Gaming,mATX
-77,B360I Gaming Pro AC,MSI,B360,Performance Gaming,Mini ITX 
-78,H310M Gaming Plus,MSI,H310,Performance Gaming,mATX
-79,H310M Gaming Arctic,MSI,H310,Performance Gaming,mATX
-80,Z370 Tomahawk,MSI,Z370,Arsenal Gaming,ATX
-81,Z370M Mortar,MSI,Z370,Arsenal Gaming,mATX
-82,H370M Bazooka,MSI,H370,Arsenal Gaming,mATX
-83,B360M Mortar Titanium,MSI,B360,Arsenal Gaming,mATX
-84,B360M Mortar,MSI,B360,Arsenal Gaming,mATX
-85,B360M Bazooka,MSI,B360,Arsenal Gaming,mATX
-86,Z370 SLI PLUS,MSI,Z370,PRO Series,ATX
-87,Z370 PC Pro,MSI,Z370,PRO Series,ATX
-88,Z370 A Pro,MSI,Z370,PRO Series,ATX
-89,B360-A PRO,MSI,B360,PRO Series,ATX
-90,B360-F PRO,MSI,B360,PRO Series,ATX
-91,B360M PRO-VDH,MSI,B360,PRO Series,mATX
-92,B360M PRO-VH,MSI,B360,PRO Series,mATX
-93,B360M PRO-VD,MSI,B360,PRO Series,mATX
-94,H310-A PRO,MSI,H310,PRO Series,ATX
-95,H310-F PRO,MSI,H310,PRO Series,ATX
-96,H310M PRO-M2,MSI,H310,PRO Series,mATX
-97,H310M PRO-VDH,MSI,H310,PRO Series,mATX
-98,H310M PRO-VHL,MSI,H310,PRO Series,mATX
-99,H310M PRO-VH ,MSI,H310,PRO Series,mATX
-100,H310M PRO-VD,MSI,H310,PRO Series,mATX
-101,H310M PRO-VL,MSI,H310,PRO Series,mATX
-102,H310M PRO-D,MSI,H310,PRO Series,mATX
-103,H310I PRO,MSI,H310,PRO Series,Mini ITX 
+MBID,Raid,M2_Raid,IRST,ISRT,Optane
+1,,,,,
+2,,,,,
+3,,,,,
+4,,,,,
+5,,,,,
+6,,,,,
+7,1,,,,1
+8,1,,1,,1
+9,1,,,1,1
+10,1,,1,1,1
+11,1,,,1,1
+12,1,,1,,1
+13,1,,1,,1
+14,,,1,,1
+15,,,,,1
+16,,,,,1
+17,,,,,1
+18,1,,,,1
+19,1,,,,1
+20,1,,,,1
+21,1,,,,1
+22,1,,1,1,1
+23,1,,1,,1
+24,,,,,
+25,,,,,
+26,1,,1,,1
+27,,,,,1
+28,,,,,
+29,,,,,1
+30,1,,,,1
+31,1,,,,1
+32,,,,,
+33,,,,,
+34,,,,,
+35,,,,,
+36,,,,,
+37,,,,,
+38,,,,,1
+39,,,,,1
+40,,,,,1
+41,,,,,1
+42,,,,,1
+43,,,,,1
+44,,,,,1
+45,,,,,1
+46,,,,,1
+47,,,,,1
+48,1,,,,1
+49,1,,,,1
+50,1,,,,1
+51,1,,,,1
+52,1,,,,1
+53,1,,,,1
+54,1,,,,1
+55,1,,,,1
+56,1,,,,1
+57,1,,,,1
+58,1,,,,1
+59,1,,,,1
+60,1,,,,1
+61,1,,,,1
+62,1,,,,1
+63,1,,,,1
+64,1,1,,,1
+65,1,1,,,1
+66,1,1,,,1
+67,1,1,,,1
+68,1,,,,1
+69,1,1,,,1
+70,1,,,,1
+71,1,1,,,1
+72,1,,,,1
+73,,,,,1
+74,,,,,1
+75,,,,,
+76,,,,,
+77,,,,,1
+78,,,,,
+79,,,,,
+80,1,1,,,1
+81,1,,,,1
+82,1,,,,1
+83,,,,,1
+84,,,,,1
+85,,,,,1
+86,1,1,,,1
+87,1,1,,,1
+88,1,,,,1
+89,,,,,1
+90,,,,,
+91,,,,,1
+92,,,,,1
+93,,,,,1
+94,,,,,
+95,,,,,
+96,,,,,
+97,,,1,,
+98,,,,,
+99,,,,,
+100,,,,,
+101,,,,,
+102,,,,,
+103,,,,,

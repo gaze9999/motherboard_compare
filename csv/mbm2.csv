@@ -1,11 +1,4 @@
-MBID,"M.2 1
-Sata","M.2 2
-Sata","M.2 3
-Sata","M.2 1
-PCIE","M.2 2
-PCIE","M.2 3
-PCIE","M.2 1
-2.0"
+MBID,M2_1Sata,M2_2Sata,M2_3Sata,M2_1PCIE,M2_2PCIE,M2_3PCIE,M2_1PCIE2
 1,1,,,2,,,
 2,1,,,2,,,
 3,1,,,2,,,

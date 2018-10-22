@@ -1,5 +1,4 @@
-MBID,COM Port ,LPT Port ,"COM Port
-On Board",LPT Port on Board,PS2
+MBID,COMPort ,LPTPort ,COMPort_MB,LPTPort_MB,PS2
 1,,,1,,2
 2,1,1,,,1
 3,,,1,,2
